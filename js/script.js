@@ -649,7 +649,7 @@ function setupUnlockVideo() {
 
 function finalRedirect() {
     // Redirecionar para a página final
-    window.location.href = 'https://pay.checkoutfy.com/dZxRDFrE';
+    window.location.href = 'https://go.nitropagamentos.com/hvv2plnskq';
 }
 
 // Funções de validação de CPF (mantidas para uso futuro)
